@@ -1,2 +1,0 @@
-archivo 2 :-/
-ejemplo git
